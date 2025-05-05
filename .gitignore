@@ -1,0 +1,24 @@
+# Compiled source
+*.out
+*.o
+*.obj
+*.exe
+
+# Build directories
+cmake-build-*/
+build/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+
+# CLion files
+.idea/
+*.iml
+
+# Other OS files
+.DS_Store
+Thumbs.db
